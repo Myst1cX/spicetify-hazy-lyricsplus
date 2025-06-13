@@ -1413,7 +1413,17 @@ ARTIST PAGE
   right: -10px !important;
 }
 
+/*-------
+BLOOM LYRICS
+-------*/
 
+/*removed the rest*/
+
+/* fix artist page being visible under lyrics cinema */
+.Root__top-container:has(.FUYNhisXTCmbzt9IDxnT) .main-topBar-container,
+.Root__top-container:has(.FUYNhisXTCmbzt9IDxnT) .under-main-view {
+  display: none;
+}
 
 /*-------
 SCROLLBAR
